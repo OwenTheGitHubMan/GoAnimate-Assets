@@ -22516,6 +22516,7 @@
     </component>
     <component type="facedecoration" id="021b" path="021b" name="021b" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
+        <state id="nothing" filename="nothing.swf"/>
     </component>
     <component type="facedecoration" id="022a" path="022a" name="022a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
